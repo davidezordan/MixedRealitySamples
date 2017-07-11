@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixedReality2D3D", "MixedReality2D3D.csproj", "{74D92124-205A-77E8-52FB-C432B74FE25D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixedReality2D3D.Editor", "MixedReality2D3D.Editor.csproj", "{ABA089E5-CA69-B310-6622-76156C234A9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74D92124-205A-77E8-52FB-C432B74FE25D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D92124-205A-77E8-52FB-C432B74FE25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D92124-205A-77E8-52FB-C432B74FE25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D92124-205A-77E8-52FB-C432B74FE25D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA089E5-CA69-B310-6622-76156C234A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA089E5-CA69-B310-6622-76156C234A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA089E5-CA69-B310-6622-76156C234A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA089E5-CA69-B310-6622-76156C234A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

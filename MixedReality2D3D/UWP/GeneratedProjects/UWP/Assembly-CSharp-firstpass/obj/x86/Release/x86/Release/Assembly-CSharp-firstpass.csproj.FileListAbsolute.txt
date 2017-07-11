@@ -1,0 +1,16 @@
+C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.dll
+C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pdb
+C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pri
+C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.dll
+C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.pdb
+C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml
+C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml.intermediate
+C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles
+C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles.intermediate
+C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles
+C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles.intermediate
+C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles
+C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles.intermediate
+C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt
+C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
+C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt

@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="MixedReality2D3D.ContentPage"
+    IsTabStop="false"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="#FFFFFF">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90*"/>
+            <RowDefinition Height="10*"/>
+        </Grid.RowDefinitions>
+        <WebView Source="http://www.davidezordan.net/samples/windows10/hostedwebappssample/page.html" />
+        <Button Grid.Row="1" Content="Click me" Click="Button_Click" Width="300"
+                HorizontalAlignment="Center"
+                HorizontalContentAlignment="Center" />
+    </Grid>
+</Page>
