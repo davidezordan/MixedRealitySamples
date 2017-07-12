@@ -12,10 +12,13 @@ public class TapBehaviour : MonoBehaviour {
         _gr.StartCapturingGestures();
 	}
 
-    private async void _gr_TappedEvent(InteractionSourceKind source, int tapCount, Ray headRay)
+    private void _gr_TappedEvent(InteractionSourceKind source, int tapCount, Ray headRay)
     {
         var contentPage = AppViewManager.Views["ContentPage"];
-        await contentPage?.SwitchAsync();
+        if (contentPage != null)
+        {
+           contentPage.Switch();
+        }
     }
 
     // Update is called once per frame

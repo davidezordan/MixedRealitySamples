@@ -12,10 +12,10 @@ GeneratedProjects\UWP\Assembly-CSharp-firstpass\project.json: 4FCF72A4D5EDB37E24
 MixedReality2D3D\App.xaml: 8969B9B9E234B584DE870E16953270E4
 MixedReality2D3D\App.xaml.cs: modified
 MixedReality2D3D\MainPage.xaml: 453E506625CA3343C71EF796F5B12592
-MixedReality2D3D\MainPage.xaml.cs: FD085FFAC5F96414194D77618270CA8A
+MixedReality2D3D\MainPage.xaml.cs: modified
 MixedReality2D3D\MixedReality2D3D.csproj: modified
 MixedReality2D3D\MixedReality2D3D.csproj.user: modified
-MixedReality2D3D\Package.appxmanifest: D9447C7CE40DB3BE2E3B6005B5EF3801
+MixedReality2D3D\Package.appxmanifest: modified
 MixedReality2D3D\project.json: 1D02BC64BAC0D041019673A1C4C51737
 MixedReality2D3D\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
 MixedReality2D3D\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
@@ -23,7 +23,5 @@ MixedReality2D3D\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D5649
 MixedReality2D3D\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
 MixedReality2D3D\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
 MixedReality2D3D\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
-MixedReality2D3D\obj\x86\Debug\App.xaml: 34451EF28F8BEC0C9B4DB6F6B2FB7C49
-MixedReality2D3D\obj\x86\Debug\MainPage.xaml: 30699B7CD753C16B338461AB1FFC66F6
-MixedReality2D3D\Properties\AssemblyInfo.cs: 8CE298FE490A52F87E9DEC4A119F49A4
+MixedReality2D3D\Properties\AssemblyInfo.cs: modified
 MixedReality2D3D\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826

@@ -3,6 +3,8 @@ using Windows.UI.ViewManagement;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using UnityPlayer;
+using System;
+using System.Threading.Tasks;
 // The Blank Application template is documented at http://go.microsoft.com/fwlink/?LinkId=234227
 
 namespace MixedReality2D3D
@@ -107,7 +109,11 @@ namespace MixedReality2D3D
 
             Window.Current.Activate();
 
+            await InitialiseAppViewManager();
+        }
 
+        private async Task InitialiseAppViewManager()
+        {
             // Capture the "Main" view which becomes 3D when Unity starts
             var mainView = await AppViewManager.CreateFromCurrentDispatcherAsync("MainPage");
 

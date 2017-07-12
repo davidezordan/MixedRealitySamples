@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{38f4a03a-6341-4975-b4cb-2e7b7afef960}</ProjectGuid>
+    <ProjectGuid>{a3b5395c-5e15-48d1-a8ab-2ce5380031ea}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AssemblyCSharpWSA</RootNamespace>
@@ -130,8 +130,8 @@
     <None Include="project.json" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj">
-      <Project>{f2d10f1b-8656-4d4c-b9b3-41af0a5955b0}</Project>
+    <ProjectReference Include="C:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj">
+      <Project>{f4282bc1-7f4c-40e5-9250-1cb8f4860a9b}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
     <Reference Include="UnityEngine">
