@@ -171,7 +171,6 @@
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
-    <Content Include="Assembly-CSharp-firstpass.csproj" />
     <Content Include="Resource.res">
     </Content>
     <Content Include="Assets\SplashScreen.scale-200.png">
@@ -263,11 +262,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj">
-      <Project>{d4061c45-ffaf-4724-af6e-ed7ab3a1e447}</Project>
+      <Project>{857b513c-ac10-425e-9ca9-9a6341eb6576}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
     <ProjectReference Include="..\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{da07f7c7-87a3-47a8-979a-ca7bf7e02f02}</Project>
+      <Project>{ceb2b6a5-130d-4f92-af95-5c49c663a8cc}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>

@@ -117,6 +117,7 @@ public class AppViewInfo
     }
 #endif
 
+#if WINDOWS_UWP
     /// <summary>
     /// Visually replaces the current view with this view.
     /// </summary>
@@ -127,10 +128,9 @@ public class AppViewInfo
     /// </remarks>
     public void Switch(AppViewInfo fromView, ApplicationViewSwitchingOptions options)
     {
-#if WINDOWS_UWP       
         SwitchAsync(fromView, options).Wait();
-#endif
     }
+#endif
 
     /// <summary>
     /// Visually replaces the current view with this view.
@@ -140,10 +140,10 @@ public class AppViewInfo
     /// <see cref="SwitchAsync"/> will not be visible to Unity behaviors 
     /// when in the editor. The async versions require UWP.
     /// </remarks>
-    public void SwitchAndConsolidate(AppViewInfo fromView, ApplicationViewSwitchingOptions options)
+    public void SwitchAndConsolidate(AppViewInfo fromView)
     {
-#if WINDOWS_UWP       
-        SwitchAndConsolidateAsync(fromView, options).Wait();
+#if WINDOWS_UWP
+        SwitchAndConsolidateAsync(fromView, Windows.UI.ViewManagement.ApplicationViewSwitchingOptions.SkipAnimation).Wait();
 #endif
     }
 
