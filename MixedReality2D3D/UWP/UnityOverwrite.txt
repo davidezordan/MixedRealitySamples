@@ -23,5 +23,9 @@ MixedReality2D3D\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D5649
 MixedReality2D3D\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
 MixedReality2D3D\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
 MixedReality2D3D\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
+MixedReality2D3D\obj\x86\Debug\App.xaml: 34451EF28F8BEC0C9B4DB6F6B2FB7C49
+MixedReality2D3D\obj\x86\Debug\MainPage.xaml: 30699B7CD753C16B338461AB1FFC66F6
+MixedReality2D3D\obj\x86\Release\App.xaml: 34451EF28F8BEC0C9B4DB6F6B2FB7C49
+MixedReality2D3D\obj\x86\Release\MainPage.xaml: 30699B7CD753C16B338461AB1FFC66F6
 MixedReality2D3D\Properties\AssemblyInfo.cs: modified
 MixedReality2D3D\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826

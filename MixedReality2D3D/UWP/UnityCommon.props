@@ -1,8 +1,8 @@
 ﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
     <PropertyGroup>
         <UnityWSASolutionName>MixedReality2D3D</UnityWSASolutionName>
-        <UnityWSASolutionDir>C:\Source\MixedRealitySamples\MixedReality2D3D\UWP\</UnityWSASolutionDir>
-        <UnityProjectDir>C:\Source\MixedRealitySamples\MixedReality2D3D\</UnityProjectDir>
+        <UnityWSASolutionDir>E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\</UnityWSASolutionDir>
+        <UnityProjectDir>E:\Source\MixedRealitySamples\MixedReality2D3D\</UnityProjectDir>
         <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
         <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
     </PropertyGroup>

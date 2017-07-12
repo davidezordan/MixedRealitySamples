@@ -24,15 +24,12 @@ using Windows.UI.Xaml.Controls;
 /// </summary>
 public class AppViewInfo
 {
-    #region Member Variables
     private string name;
 #if WINDOWS_UWP
     private CoreDispatcher dispatcher;
     private ApplicationView view;
 #endif
-    #endregion // Member Variables
 
-    #region Constructors
     private AppViewInfo() { }
 
 #if WINDOWS_UWP
@@ -64,9 +61,7 @@ public class AppViewInfo
         this.view.Consolidated += View_Consolidated;
     }
 #endif
-    #endregion // Constructors
 
-    #region Public Methods
 #if WINDOWS_UWP
     /// <summary>
     /// Gets the current content within the view.
@@ -130,6 +125,36 @@ public class AppViewInfo
     /// <see cref="SwitchAsync"/> will not be visible to Unity behaviors 
     /// when in the editor. The async versions require UWP.
     /// </remarks>
+    public void Switch(AppViewInfo fromView, ApplicationViewSwitchingOptions options)
+    {
+#if WINDOWS_UWP       
+        SwitchAsync(fromView, options).Wait();
+#endif
+    }
+
+    /// <summary>
+    /// Visually replaces the current view with this view.
+    /// </summary>
+    /// <remarks>
+    /// When possible use <see cref="SwitchAsync"/> instead of this method. 
+    /// <see cref="SwitchAsync"/> will not be visible to Unity behaviors 
+    /// when in the editor. The async versions require UWP.
+    /// </remarks>
+    public void SwitchAndConsolidate(AppViewInfo fromView, ApplicationViewSwitchingOptions options)
+    {
+#if WINDOWS_UWP       
+        SwitchAndConsolidateAsync(fromView, options).Wait();
+#endif
+    }
+
+    /// <summary>
+    /// Visually replaces the current view with this view.
+    /// </summary>
+    /// <remarks>
+    /// When possible use <see cref="SwitchAsync"/> instead of this method. 
+    /// <see cref="SwitchAsync"/> will not be visible to Unity behaviors 
+    /// when in the editor. The async versions require UWP.
+    /// </remarks>
     public void Switch()
     {
 #if WINDOWS_UWP
@@ -176,6 +201,31 @@ public class AppViewInfo
     }
 
     /// <summary>
+    /// Visually replaces the current view with this view.
+    /// </summary>
+    /// <param name="fromView">
+    /// The view you are switching from.
+    /// </param>
+    /// <param name="options">
+    /// Options for the display transition behaviors.
+    /// </param>
+    /// <returns>
+    /// A <see cref="Task"/> that represents the operation.
+    /// </returns>
+    public async Task SwitchAndConsolidateAsync(AppViewInfo fromView, ApplicationViewSwitchingOptions options)
+    {
+        // From view MUST be passed
+        if (fromView == null) throw new ArgumentNullException(nameof(fromView));
+
+        await dispatcher.RunAsync(CoreDispatcherPriority.Normal, async () =>
+        {
+            ApplicationViewSwitcher.DisableShowingMainViewOnActivation();
+            await ApplicationViewSwitcher.SwitchAsync(this.view.Id, fromView.view.Id, options);
+            await this.view.TryConsolidateAsync();
+        });
+    }
+
+    /// <summary>
     /// Attempts to display this view adjacent to the current view.
     /// </summary>
     /// <returns>
@@ -192,9 +242,7 @@ public class AppViewInfo
         return success;
     }
 #endif
-    #endregion // Public Methods
 
-    #region Overrides / Event Handlers
 #if WINDOWS_UWP
     private void View_Consolidated(ApplicationView sender, ApplicationViewConsolidatedEventArgs args)
     {
@@ -204,9 +252,7 @@ public class AppViewInfo
         }
     }
 #endif
-    #endregion // Overrides / Event Handlers
 
-    #region Public Properties
 #if WINDOWS_UWP
     /// <summary>
     /// Gets the dispatcher that the view was created on.
@@ -225,15 +271,12 @@ public class AppViewInfo
     /// </summary>
     public ApplicationView View => view;
 #endif
-    #endregion // Public Properties
 
-    #region Public Events
     /// <summary>
     /// Occurs when the window is removed from the list of 
     /// recently used apps, or if the user executes a close gesture on it.
     /// </summary>
     public event EventHandler Consolidated;
-    #endregion // Public Events
 }
 
 /// <summary>
@@ -252,11 +295,8 @@ public class AppViewCollection : KeyedCollection<string, AppViewInfo>
 /// </summary>
 static public class AppViewManager
 {
-    #region Member Variables
     static private AppViewCollection views = new AppViewCollection();
-    #endregion // Member Variables
 
-    #region Public Methods
 #if WINDOWS_UWP
     /// <summary>
     /// Creates an <see cref="AppViewInfo"/> from the current dispatcher.
@@ -351,12 +391,9 @@ static public class AppViewManager
         return await CreateFromDispatcherAsync(name, view.Dispatcher);
     }
 #endif
-    #endregion // Public Methods
 
-    #region Public Properties
     /// <summary>
     /// Gets the list of all created views.
     /// </summary>
     static public AppViewCollection Views { get { return views; } }
-    #endregion // Public Properties
 }

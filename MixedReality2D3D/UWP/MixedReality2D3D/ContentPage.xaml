@@ -14,7 +14,7 @@
             <RowDefinition Height="10*"/>
         </Grid.RowDefinitions>
         <WebView Source="http://www.davidezordan.net/samples/windows10/hostedwebappssample/page.html" />
-        <Button Grid.Row="1" Content="Click me" Click="Button_Click" Width="300"
+        <Button Grid.Row="1" Content="Switch to Unity" Click="Button_Click" Width="300"
                 HorizontalAlignment="Center"
                 HorizontalContentAlignment="Center" />
     </Grid>

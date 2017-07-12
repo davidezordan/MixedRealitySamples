@@ -18,3 +18,23 @@ C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\
 C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\qualifiers.txt
 C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
 C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.dll
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.pdb
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.pri
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp-firstpass.dll
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp-firstpass.pdb
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp-firstpass.pri
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.dll
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.pdb
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\priconfig.xml
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\priconfig.xml.intermediate
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\layout.resfiles
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\layout.resfiles.intermediate
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\resources.resfiles
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\resources.resfiles.intermediate
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\pri.resfiles
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\pri.resfiles.intermediate
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\qualifiers.txt
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt

@@ -15870,13 +15870,13 @@
     },
     "Assembly-CSharp/1.0.0": {
       "type": "project",
-      "path": "../../../../MixedRealityWorkshop/07 - Using HoloToolkit/06 - MixedReality2D3D/UWP/GeneratedProjects/UWP/Assembly-CSharp/project.json",
-      "msbuildProject": "../../../../MixedRealityWorkshop/07 - Using HoloToolkit/06 - MixedReality2D3D/UWP/GeneratedProjects/UWP/Assembly-CSharp/Assembly-CSharp.csproj"
+      "path": "../GeneratedProjects/UWP/Assembly-CSharp/project.json",
+      "msbuildProject": "../GeneratedProjects/UWP/Assembly-CSharp/Assembly-CSharp.csproj"
     },
     "Assembly-CSharp-firstpass/1.0.0": {
       "type": "project",
-      "path": "../../../../MixedRealityWorkshop/07 - Using HoloToolkit/06 - MixedReality2D3D/UWP/GeneratedProjects/UWP/Assembly-CSharp-firstpass/project.json",
-      "msbuildProject": "../../../../MixedRealityWorkshop/07 - Using HoloToolkit/06 - MixedReality2D3D/UWP/GeneratedProjects/UWP/Assembly-CSharp-firstpass/Assembly-CSharp-firstpass.csproj"
+      "path": "../GeneratedProjects/UWP/Assembly-CSharp-firstpass/project.json",
+      "msbuildProject": "../GeneratedProjects/UWP/Assembly-CSharp-firstpass/Assembly-CSharp-firstpass.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -15889,23 +15889,23 @@
     "UAP,Version=v10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dazo\\.nuget\\packages\\": {}
+    "C:\\Users\\info\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\MixedReality2D3D\\MixedReality2D3D.csproj",
+      "projectUniqueName": "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\MixedReality2D3D\\MixedReality2D3D.csproj",
       "projectName": "MixedReality2D3D",
-      "projectPath": "C:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\MixedReality2D3D\\MixedReality2D3D.csproj",
-      "projectJsonPath": "C:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\MixedReality2D3D\\project.json",
+      "projectPath": "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\MixedReality2D3D\\MixedReality2D3D.csproj",
+      "projectJsonPath": "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\MixedReality2D3D\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "C:\\Source\\MixedRealityWorkshop\\07 - Using HoloToolkit\\06 - MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj": {
-              "projectPath": "C:\\Source\\MixedRealityWorkshop\\07 - Using HoloToolkit\\06 - MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj"
+            "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj": {
+              "projectPath": "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj"
             },
-            "C:\\Source\\MixedRealityWorkshop\\07 - Using HoloToolkit\\06 - MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj": {
-              "projectPath": "C:\\Source\\MixedRealityWorkshop\\07 - Using HoloToolkit\\06 - MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj"
+            "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj": {
+              "projectPath": "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj"
             }
           }
         }

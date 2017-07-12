@@ -8,8 +8,6 @@ namespace MixedReality2D3D
     /// </summary>
     public sealed partial class ContentPage : Page
     {
-        int MainAppViewId;
-
         public ContentPage()
         {
             this.InitializeComponent();
@@ -18,7 +16,7 @@ namespace MixedReality2D3D
         private async void Button_Click(object sender, RoutedEventArgs e)
         {
             var contentPage = AppViewManager.Views["MainPage"];
-            await contentPage?.SwitchAsync();
+            await contentPage?.SwitchAndConsolidateAsync(contentPage, Windows.UI.ViewManagement.ApplicationViewSwitchingOptions.SkipAnimation);
         }
     }
 }
