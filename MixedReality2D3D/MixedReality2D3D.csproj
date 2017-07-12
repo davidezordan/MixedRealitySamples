@@ -315,6 +315,7 @@
     <Compile Include="Assets\HoloToolkit\Utilities\Scripts\VectorRollingStatistics.cs" />
     <Compile Include="Assets\HoloToolkit\Utilities\Scripts\WorldAnchorManager.cs" />
     <Compile Include="Assets\HoloToolkit\Utilities\Shaders\FastConfigurable\Scripts\CalibrationSpace.cs" />
+    <Compile Include="Assets\Scripts\AppViewManager.cs" />
     <Compile Include="Assets\Scripts\TapBehaviour.cs" />
   </ItemGroup>
   <ItemGroup>
