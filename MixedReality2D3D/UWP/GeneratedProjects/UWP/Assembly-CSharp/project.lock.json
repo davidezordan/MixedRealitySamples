@@ -15540,20 +15540,20 @@
     "UAP,Version=v10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dazo\\.nuget\\packages\\": {}
+    "C:\\Users\\info\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Source\\MixedRealityWorkshop\\07 - Using HoloToolkit\\06 - MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
+      "projectUniqueName": "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
       "projectName": "Assembly-CSharp",
-      "projectPath": "C:\\Source\\MixedRealityWorkshop\\07 - Using HoloToolkit\\06 - MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
-      "projectJsonPath": "C:\\Source\\MixedRealityWorkshop\\07 - Using HoloToolkit\\06 - MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\project.json",
+      "projectPath": "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
+      "projectJsonPath": "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "C:\\Source\\MixedRealityWorkshop\\07 - Using HoloToolkit\\06 - MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj": {
-              "projectPath": "C:\\Source\\MixedRealityWorkshop\\07 - Using HoloToolkit\\06 - MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj"
+            "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj": {
+              "projectPath": "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj"
             }
           }
         }

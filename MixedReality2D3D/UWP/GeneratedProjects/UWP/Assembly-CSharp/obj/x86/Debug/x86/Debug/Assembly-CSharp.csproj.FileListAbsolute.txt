@@ -1,20 +1,20 @@
-C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp.dll
-C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp.pdb
-C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp.pri
-C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp-firstpass.dll
-C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp-firstpass.pdb
-C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp-firstpass.pri
-C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
-C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\Assembly-CSharp.dll
-C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\Assembly-CSharp.pdb
-C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\priconfig.xml
-C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\priconfig.xml.intermediate
-C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\layout.resfiles
-C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\layout.resfiles.intermediate
-C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\resources.resfiles
-C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\resources.resfiles.intermediate
-C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\pri.resfiles
-C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\pri.resfiles.intermediate
-C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\qualifiers.txt
-C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\qualifiers.txt.intermediate
-C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp.dll
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp.pdb
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp.pri
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp-firstpass.dll
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp-firstpass.pdb
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp-firstpass.pri
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\Assembly-CSharp.dll
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\Assembly-CSharp.pdb
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\priconfig.xml
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\priconfig.xml.intermediate
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\layout.resfiles
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\layout.resfiles.intermediate
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\resources.resfiles
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\resources.resfiles.intermediate
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\pri.resfiles
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\pri.resfiles.intermediate
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\qualifiers.txt
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\qualifiers.txt.intermediate
+E:\Source\MixedRealitySamples\MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\MultipleQualifiersPerDimensionFound.txt

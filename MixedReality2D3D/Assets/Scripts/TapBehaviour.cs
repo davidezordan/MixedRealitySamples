@@ -17,7 +17,7 @@ public class TapBehaviour : MonoBehaviour {
         var contentPage = AppViewManager.Views["ContentPage"];
         if (contentPage != null)
         {
-           contentPage.Switch();
+           contentPage.SwitchAndConsolidate(contentPage);
         }
     }
 

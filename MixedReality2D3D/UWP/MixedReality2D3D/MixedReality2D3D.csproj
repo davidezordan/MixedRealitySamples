@@ -232,18 +232,6 @@
     <None Include="WSATestCertificate.pfx" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{58965052-b160-49f3-a421-83e8a2eea33f}</Project>
-      <Name>Assembly-CSharp</Name>
-      <Private>False</Private>
-    </ProjectReference>
-    <ProjectReference Include="C:\Source\MixedRealityWorkshop\07 - Using HoloToolkit\06 - MixedReality2D3D\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj">
-      <Project>{9f44ef61-0c99-49d6-9fdc-5fa073c9764f}</Project>
-      <Name>Assembly-CSharp-firstpass</Name>
-      <Private>False</Private>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Reference Include="UnityPlayer">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>$(UnityWSAPlayerDir)Players\UAP\dotnet\$(PlatformTarget)\$(Configuration)\UnityPlayer.winmd</HintPath>
@@ -271,6 +259,16 @@
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
   <ItemGroup>
     <UnprocessedFile Include="$(ProjectDir)Unprocessed\*" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj">
+      <Project>{857b513c-ac10-425e-9ca9-9a6341eb6576}</Project>
+      <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
+      <Project>{ceb2b6a5-130d-4f92-af95-5c49c663a8cc}</Project>
+      <Name>Assembly-CSharp</Name>
+    </ProjectReference>
   </ItemGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
        Other similar extension points exist, see Microsoft.Common.targets.
