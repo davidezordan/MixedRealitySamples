@@ -15540,20 +15540,20 @@
     "UAP,Version=v10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\info\\.nuget\\packages\\": {}
+    "C:\\Users\\dazo\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
+      "projectUniqueName": "C:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
       "projectName": "Assembly-CSharp",
-      "projectPath": "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
-      "projectJsonPath": "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\project.json",
+      "projectPath": "C:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
+      "projectJsonPath": "C:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj": {
-              "projectPath": "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj"
+            "C:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj": {
+              "projectPath": "C:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj"
             }
           }
         }

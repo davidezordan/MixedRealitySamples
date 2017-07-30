@@ -15889,23 +15889,23 @@
     "UAP,Version=v10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\info\\.nuget\\packages\\": {}
+    "C:\\Users\\dazo\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\MixedReality2D3D\\MixedReality2D3D.csproj",
+      "projectUniqueName": "C:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\MixedReality2D3D\\MixedReality2D3D.csproj",
       "projectName": "MixedReality2D3D",
-      "projectPath": "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\MixedReality2D3D\\MixedReality2D3D.csproj",
-      "projectJsonPath": "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\MixedReality2D3D\\project.json",
+      "projectPath": "C:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\MixedReality2D3D\\MixedReality2D3D.csproj",
+      "projectJsonPath": "C:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\MixedReality2D3D\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj": {
-              "projectPath": "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj"
+            "C:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj": {
+              "projectPath": "C:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj"
             },
-            "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj": {
-              "projectPath": "E:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj"
+            "C:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj": {
+              "projectPath": "C:\\Source\\MixedRealitySamples\\MixedReality2D3D\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj"
             }
           }
         }

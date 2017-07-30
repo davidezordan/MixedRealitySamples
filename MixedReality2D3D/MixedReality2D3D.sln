@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixedReality2D3D", "MixedReality2D3D.csproj", "{74D92124-205A-77E8-52FB-C432B74FE25D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixedReality2D3D.Editor", "MixedReality2D3D.Editor.csproj", "{ABA089E5-CA69-B310-6622-76156C234A9F}"
