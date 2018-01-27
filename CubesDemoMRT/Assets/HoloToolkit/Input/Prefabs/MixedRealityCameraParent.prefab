@@ -89,12 +89,12 @@ GameObject:
   - component: {fileID: 4931155170010354}
   - component: {fileID: 114710303647202208}
   m_Layer: 0
-  m_Name: Controllers
+  m_Name: MotionControllers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!1 &1498836839153776
 GameObject:
   m_ObjectHideFlags: 1
@@ -232,7 +232,8 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4541142303025740}
-  - component: {fileID: 114092548863884916}
+  - component: {fileID: 114059824862712730}
+  - component: {fileID: 114812681035175298}
   m_Layer: 0
   m_Name: MixedRealityCameraParent
   m_TagString: Untagged
@@ -537,8 +538,8 @@ MeshRenderer:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1586147040494190}
   m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
   m_DynamicOccludee: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
@@ -578,7 +579,6 @@ AudioListener:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1372541880982678}
   m_Enabled: 1
-  m_ExtensionPropertyValues: []
 --- !u!114 &114029515443702222
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -594,11 +594,22 @@ MonoBehaviour:
   UseUnscaledTime: 1
   axisType: 0
   buttonType: 21
-  InputManagerHorizontalAxisName: ControllerRightStickX
-  InputManagerVerticalAxisName: ControllerRightStickY
+  InputManagerHorizontalAxisName: CONTROLLER_RIGHT_STICK_HORIZONTAL
+  InputManagerVerticalAxisName: CONTROLLER_RIGHT_STICK_VERTICAL
   Axis0Destination: 0
   Axis1Destination: 4
   Axis2Destination: 6
+--- !u!114 &114059824862712730
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1850730992894404}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cae8f3c88e9704a4393cb8d904b62372, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114061490341948574
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -623,26 +634,6 @@ MonoBehaviour:
   JoystickXYRotationAxisControl: {fileID: 114991520948515094}
   JoystickXYTranslationAxisControl: {fileID: 114873870855691164}
   JoystickXZTranslationAxisControl: {fileID: 114029515443702222}
---- !u!114 &114092548863884916
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1850730992894404}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1bc175d33f66e6647aabac1b65e7e632, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  TeleportButtonName: Jump
-  GoBackButtonName: Fire2
-  LeftJoystickX: ControllerLeftStickX
-  LeftJoystickY: ControllerLeftStickY
-  EnableTeleport: 1
-  EnableJoystickMovement: 0
-  BumperRotationSize: 30
-  TeleportMarker: {fileID: 1503526479864244, guid: 10d95b99055c6ad40b735cc8b3593745,
-    type: 2}
 --- !u!114 &114121188885475510
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -676,6 +667,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FloorQuad: {fileID: 1520281459093612, guid: 08d25ccfbbc595b4a820c7edd551d095, type: 2}
   boundaryHeight: 10
+  opaqueTrackingSpaceType: 1
+  transparentTrackingSpaceType: 0
+  renderFloor: 1
+  renderBoundary: 1
 --- !u!114 &114225625019075894
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -707,6 +702,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 794a5a07720daf4479efca14d8ba4297, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FadeSharedMaterial: 0
 --- !u!114 &114465015496195000
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -740,6 +736,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   NearClipPlane_OpaqueDisplay: 0.1
   CameraClearFlags_OpaqueDisplay: 1
+  BackgroundColor_OpaqueDisplay: {r: 0, g: 0, b: 0, a: 1}
   OpaqueQualityLevel: 5
   NearClipPlane_TransparentDisplay: 0.85
   CameraClearFlags_TransparentDisplay: 2
@@ -777,8 +774,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AnimateControllerModel: 1
-  LeftControllerOverride: {fileID: 0}
-  RightControllerOverride: {fileID: 0}
+  AlwaysUseAlternateLeftModel: 0
+  AlwaysUseAlternateRightModel: 0
+  AlternateLeftController: {fileID: 1097318689274706, guid: 869d340c69dbcef459070c1a159d38ac,
+    type: 2}
+  AlternateRightController: {fileID: 1097318689274706, guid: 869d340c69dbcef459070c1a159d38ac,
+    type: 2}
   TouchpadTouchedOverride: {fileID: 0}
   GLTFMaterial: {fileID: 2100000, guid: 2ac78523d661e954c83d799f582b22e8, type: 2}
 --- !u!114 &114755176645041546
@@ -801,6 +802,33 @@ MonoBehaviour:
   Axis0Destination: 4
   Axis1Destination: 6
   Axis2Destination: 6
+--- !u!114 &114812681035175298
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1850730992894404}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bc175d33f66e6647aabac1b65e7e632, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HorizontalStrafe: 1
+  ForwardMovement: 2
+  HorizontalRotation: 3
+  VerticalRotation: 4
+  LeftThumbstickX: CONTROLLER_LEFT_STICK_HORIZONTAL
+  LeftThumbstickY: CONTROLLER_LEFT_STICK_VERTICAL
+  RightThumbstickX: CONTROLLER_RIGHT_STICK_HORIZONTAL
+  RightThumbstickY: CONTROLLER_RIGHT_STICK_VERTICAL
+  EnableTeleport: 1
+  EnableRotation: 1
+  EnableStrafe: 1
+  RotationSize: 45
+  StrafeAmount: 0.5
+  teleportMarker: {fileID: 1503526479864244, guid: 10d95b99055c6ad40b735cc8b3593745,
+    type: 2}
+  useCustomMapping: 0
 --- !u!114 &114828096048444974
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -836,8 +864,8 @@ MonoBehaviour:
   UseUnscaledTime: 1
   axisType: 0
   buttonType: 21
-  InputManagerHorizontalAxisName: LeftTrigger
-  InputManagerVerticalAxisName: RightTrigger
+  InputManagerHorizontalAxisName: CONTROLLER_LEFT_TRIGGER
+  InputManagerVerticalAxisName: CONTROLLER_RIGHT_TRIGGER
   Axis0Destination: 2
   Axis1Destination: 3
   Axis2Destination: 6
@@ -876,8 +904,8 @@ MonoBehaviour:
   UseUnscaledTime: 1
   axisType: 0
   buttonType: 21
-  InputManagerHorizontalAxisName: ControllerLeftStickX
-  InputManagerVerticalAxisName: ControllerLeftStickY
+  InputManagerHorizontalAxisName: CONTROLLER_LEFT_STICK_HORIZONTAL
+  InputManagerVerticalAxisName: CONTROLLER_LEFT_STICK_VERTICAL
   Axis0Destination: 2
   Axis1Destination: 0
   Axis2Destination: 6
