@@ -5,5 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/DevBriefing2018.unity
+    guid: ef2af305f25eea143ae5326aea9494c2
+  - enabled: 0
+    path: Assets/Scenes/TestScene.unity
+    guid: 170e197a84a79f448b0510a2af3bb0a4
+  - enabled: 0
+    path: Assets/Scenes/CubesDemoMRT.unity
+    guid: 4648a3f4c1a890c42b7a8bad284f6e2f
   - enabled: 1
-    path: Assets/Test Scene VR.unity
+    path: Assets/Scenes/DevBriefing 2018.unity
+    guid: 89e06010cd77ff249b49a8d15e8c6c2b

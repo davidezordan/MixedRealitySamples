@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/CubesDemoMRT.unity
+- path: Assets/Scenes/DevBriefing 2018.unity
   isLoaded: 1
   isActive: 1

@@ -1,47 +1,11 @@
-﻿using System;
+﻿using HoloToolkit.Unity.InputModule;
 using UnityEngine;
 
-using UnityEngine.Windows.Speech;
-
-public class ShootBehaviourScript : MonoBehaviour {
-
-    UnityEngine.XR.WSA.Input.GestureRecognizer _recognizer;
+public class ShootBehaviourScript : MonoBehaviour, IInputHandler {
     public float ForceMagnitude = 300f;
 
-    private KeywordRecognizer _keywordRecognizer;
-    public string FireCommand = "fire";
-
     void Start () {
-        _recognizer = new UnityEngine.XR.WSA.Input.GestureRecognizer();
-        _recognizer.TappedEvent += _recognizer_TappedEvent;
-        _recognizer.StartCapturingGestures();
 
-        _keywordRecognizer = new KeywordRecognizer(new[] { FireCommand });
-        _keywordRecognizer.OnPhraseRecognized += KeywordRecognizer_OnPhraseRecognized;
-        _keywordRecognizer.Start();
-    }
-
-    private void KeywordRecognizer_OnPhraseRecognized(PhraseRecognizedEventArgs args)
-    {
-        var cmd = args.text;
-
-        if (cmd == FireCommand)
-        {
-            this.BroadcastMessage("OnFire");
-        }
-
-        //if (cmd == GoToStartCommand)
-        //{
-        //    if (GazeManager.Instance.HitObject != null)
-        //    {
-        //        GazeManager.Instance.HitInfo.collider.gameObject.SendMessage("OnRevert", true);
-        //    }
-        //}
-    }
-
-    private void _recognizer_TappedEvent(UnityEngine.XR.WSA.Input.InteractionSourceKind source, int tapCount, Ray headRay)
-    {
-        OnFire();
     }
 
     public void OnFire()
@@ -67,4 +31,13 @@ public class ShootBehaviourScript : MonoBehaviour {
     // Update is called once per frame
     void Update () {		
 	}
+
+    public void OnInputDown(InputEventData eventData)
+    {
+        OnFire();
+    }
+
+    public void OnInputUp(InputEventData eventData)
+    {
+    }
 }

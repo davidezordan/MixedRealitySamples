@@ -1,7 +1,6 @@
 ﻿using UnityEngine;
 
 public class ChangeColorBehaviourScript : MonoBehaviour {
-
     Color _color;
 
     Material _material
