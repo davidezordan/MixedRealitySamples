@@ -1,11 +1,10 @@
 ﻿using HoloToolkit.Unity.InputModule;
 using UnityEngine;
 
-public class ShootBehaviourScript : MonoBehaviour, IInputHandler {
+public class ShootBehaviourScript : MonoBehaviour, IInputHandler, ISpeechHandler {
     public float ForceMagnitude = 300f;
 
     void Start () {
-
     }
 
     public void OnFire()
@@ -39,5 +38,18 @@ public class ShootBehaviourScript : MonoBehaviour, IInputHandler {
 
     public void OnInputUp(InputEventData eventData)
     {
+    }
+
+    public void OnSpeechKeywordRecognized(SpeechEventData eventData)
+    {
+        var recText = eventData.RecognizedText;
+        if (!string.IsNullOrEmpty(recText))
+        {
+            recText = recText.ToLower();
+            if (recText.Equals("fire") || recText.Equals("shoot"))
+            {
+                OnFire();
+            }
+        }
     }
 }
