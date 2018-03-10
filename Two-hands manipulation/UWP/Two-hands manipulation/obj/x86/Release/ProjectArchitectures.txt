@@ -1,0 +1,2 @@
+C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\Two-hands manipulation.csproj;x86
