@@ -457,7 +457,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fff02dbb374b62340a93479237fb9319, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Profile: {fileID: 0}
+  Profile: {fileID: 11400000, guid: a9c1795616f7f6d4a9e866e757eb2b46, type: 2}
   targetIconRenderer: {fileID: 23553486774948722}
   DisableIcon: 0
   OverrideIcon: 0

@@ -136,7 +136,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 36233527}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.5, z: 2}
+  m_LocalPosition: {x: 0, y: 0, z: 5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 837473803}
@@ -873,13 +873,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c62fd7a55ba7458499b69cae18f83806, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PersistentKeywords: 1
+  PersistentKeywords: 0
   RecognizerStart: 0
-  Keywords:
-  - Keyword: fire
-    KeyCode: 0
-  - Keyword: shoot
-    KeyCode: 0
+  Keywords: []
   recognitionConfidenceLevel: 1
 --- !u!114 &1742107764
 MonoBehaviour:
