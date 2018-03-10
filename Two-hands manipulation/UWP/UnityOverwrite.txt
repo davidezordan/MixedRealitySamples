@@ -11,7 +11,7 @@ GeneratedProjects\UWP\Assembly-CSharp\project.json: 1D02BC64BAC0D041019673A1C4C5
 Two-hands manipulation\App.cs: 1CF442B5751F437EFF27DE37E0DFAEB5
 Two-hands manipulation\Package.appxmanifest: 5E85945A9F07454AEBA369BFAD9F316D
 Two-hands manipulation\project.json: 1D02BC64BAC0D041019673A1C4C51737
-Two-hands manipulation\Two-hands manipulation.csproj: D9A8A2FD3A23EE67E9A899ED027EFE15
+Two-hands manipulation\Two-hands manipulation.csproj: 9747DCBAFE773D40D36C91D82CBCF0DB
 Two-hands manipulation\Two-hands manipulation.csproj.user: modified
 Two-hands manipulation\Assets\SplashScreen.scale-200.png: A85C1D7624B6902CF8CEBD6F0200A826
 Two-hands manipulation\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084

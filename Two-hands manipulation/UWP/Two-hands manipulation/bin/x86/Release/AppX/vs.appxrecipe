@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\bin\x86\Release\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-10T22:03:56.861</Modified>
+      <Modified>2018-03-10T22:22:43.130</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\bin\x86\Release\Two-hands manipulation.exe">
       <PackagePath>entrypoint\Two-hands manipulation.exe</PackagePath>
-      <Modified>2018-03-10T22:03:30.636</Modified>
+      <Modified>2018-03-10T22:22:15.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\info\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -501,7 +501,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\Resource.res">
       <PackagePath>Resource.res</PackagePath>
-      <Modified>2018-03-10T22:02:48.956</Modified>
+      <Modified>2018-03-10T22:21:31.563</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
@@ -559,15 +559,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
-      <Modified>2018-03-10T22:01:15.819</Modified>
+      <Modified>2018-03-10T22:20:16.312</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
-      <Modified>2018-03-10T22:01:14.037</Modified>
+      <Modified>2018-03-10T22:20:13.861</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\Data\level0">
       <PackagePath>Data\level0</PackagePath>
-      <Modified>2018-03-10T22:01:10.410</Modified>
+      <Modified>2018-03-10T22:20:11.072</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
@@ -575,35 +575,31 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
-      <Modified>2018-03-10T22:01:15.814</Modified>
+      <Modified>2018-03-10T22:20:16.303</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
-      <Modified>2018-03-10T22:01:14.452</Modified>
+      <Modified>2018-03-10T22:20:14.173</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
-      <Modified>2018-03-10T22:01:15.366</Modified>
+      <Modified>2018-03-10T22:20:15.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
-      <Modified>2018-03-10T22:01:10.393</Modified>
+      <Modified>2018-03-10T22:20:11.062</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
-      <Modified>2018-03-10T22:01:15.346</Modified>
+      <Modified>2018-03-10T22:20:15.722</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
-      <Modified>2018-03-10T22:02:48.110</Modified>
+      <Modified>2018-03-10T22:21:31.075</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
-      <Modified>2018-03-10T22:02:48.131</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\Data\sharedassets0.resource">
-      <PackagePath>Data\sharedassets0.resource</PackagePath>
-      <Modified>2018-03-10T22:01:15.383</Modified>
+      <Modified>2018-03-10T22:21:31.092</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -612,231 +608,231 @@
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\bin\x86\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-10T22:03:31.514</Modified>
+      <Modified>2018-03-10T22:22:16.812</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.TextRenderingModule.dll">
       <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.484</Modified>
+      <Modified>2018-03-10T22:22:33.604</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.TerrainPhysicsModule.dll">
       <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.500</Modified>
+      <Modified>2018-03-10T22:22:33.635</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.525</Modified>
+      <Modified>2018-03-10T22:22:33.684</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.TilemapModule.dll">
       <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.547</Modified>
+      <Modified>2018-03-10T22:22:33.734</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.UIElementsModule.dll">
       <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.594</Modified>
+      <Modified>2018-03-10T22:22:33.814</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.SharedInternalsModule.dll">
       <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.614</Modified>
+      <Modified>2018-03-10T22:22:33.844</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.ScreenCaptureModule.dll">
       <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.642</Modified>
+      <Modified>2018-03-10T22:22:33.894</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.SpriteMaskModule.dll">
       <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.661</Modified>
+      <Modified>2018-03-10T22:22:33.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.682</Modified>
+      <Modified>2018-03-10T22:22:33.939</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.SpriteShapeModule.dll">
       <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.698</Modified>
+      <Modified>2018-03-10T22:22:33.957</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.VideoModule.dll">
       <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.721</Modified>
+      <Modified>2018-03-10T22:22:33.977</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.VehiclesModule.dll">
       <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.741</Modified>
+      <Modified>2018-03-10T22:22:33.995</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.UnityWebRequestWWWModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.761</Modified>
+      <Modified>2018-03-10T22:22:34.014</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.VRModule.dll">
       <PackagePath>UnityEngine.VRModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.782</Modified>
+      <Modified>2018-03-10T22:22:34.043</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.WindModule.dll">
       <PackagePath>UnityEngine.WindModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.797</Modified>
+      <Modified>2018-03-10T22:22:34.077</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.WebModule.dll">
       <PackagePath>UnityEngine.WebModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.834</Modified>
+      <Modified>2018-03-10T22:22:34.115</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.UnityAnalyticsModule.dll">
       <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.853</Modified>
+      <Modified>2018-03-10T22:22:34.140</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.UNETModule.dll">
       <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.870</Modified>
+      <Modified>2018-03-10T22:22:34.168</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.UIModule.dll">
       <PackagePath>UnityEngine.UIModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.896</Modified>
+      <Modified>2018-03-10T22:22:34.201</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.916</Modified>
+      <Modified>2018-03-10T22:22:34.218</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.UnityWebRequestTextureModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.936</Modified>
+      <Modified>2018-03-10T22:22:34.235</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.UnityWebRequestModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.962</Modified>
+      <Modified>2018-03-10T22:22:34.267</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.UnityWebRequestAudioModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.980</Modified>
+      <Modified>2018-03-10T22:22:34.286</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.AudioModule.dll">
       <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:49.006</Modified>
+      <Modified>2018-03-10T22:22:34.329</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.AssetBundleModule.dll">
       <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:49.024</Modified>
+      <Modified>2018-03-10T22:22:34.346</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.ARModule.dll">
       <PackagePath>UnityEngine.ARModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:49.048</Modified>
+      <Modified>2018-03-10T22:22:34.375</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:49.075</Modified>
+      <Modified>2018-03-10T22:22:34.396</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.DirectorModule.dll">
       <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:49.107</Modified>
+      <Modified>2018-03-10T22:22:34.421</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.CrashReportingModule.dll">
       <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:49.124</Modified>
+      <Modified>2018-03-10T22:22:34.453</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:49.580</Modified>
+      <Modified>2018-03-10T22:22:34.950</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.AnimationModule.dll">
       <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:49.620</Modified>
+      <Modified>2018-03-10T22:22:34.986</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.AIModule.dll">
       <PackagePath>UnityEngine.AIModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:49.665</Modified>
+      <Modified>2018-03-10T22:22:35.023</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.AccessibilityModule.dll">
       <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:49.689</Modified>
+      <Modified>2018-03-10T22:22:35.048</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.ParticlesLegacyModule.dll">
       <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:49.706</Modified>
+      <Modified>2018-03-10T22:22:35.084</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.JSONSerializeModule.dll">
       <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:49.723</Modified>
+      <Modified>2018-03-10T22:22:35.107</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.ParticleSystemModule.dll">
       <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:49.752</Modified>
+      <Modified>2018-03-10T22:22:35.149</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:49.765</Modified>
+      <Modified>2018-03-10T22:22:35.178</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.Physics2DModule.dll">
       <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:49.785</Modified>
+      <Modified>2018-03-10T22:22:35.215</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.PerformanceReportingModule.dll">
       <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:49.802</Modified>
+      <Modified>2018-03-10T22:22:35.245</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.GridModule.dll">
       <PackagePath>UnityEngine.GridModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:49.820</Modified>
+      <Modified>2018-03-10T22:22:35.284</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:49.843</Modified>
+      <Modified>2018-03-10T22:22:35.310</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
-      <Modified>2018-03-10T22:02:03.492</Modified>
+      <Modified>2018-03-10T22:20:53.911</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.InputModule.dll">
       <PackagePath>UnityEngine.InputModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:49.863</Modified>
+      <Modified>2018-03-10T22:22:35.337</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.IMGUIModule.dll">
       <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:49.897</Modified>
+      <Modified>2018-03-10T22:22:35.404</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.ImageConversionModule.dll">
       <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
-      <Modified>2018-03-10T22:03:49.918</Modified>
+      <Modified>2018-03-10T22:22:35.431</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
-      <Modified>2018-03-10T22:03:49.987</Modified>
+      <Modified>2018-03-10T22:22:35.500</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
-      <Modified>2018-03-10T22:03:50.022</Modified>
+      <Modified>2018-03-10T22:22:35.547</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\nunit.framework.dll">
       <PackagePath>nunit.framework.dll</PackagePath>
-      <Modified>2018-03-10T22:03:50.082</Modified>
+      <Modified>2018-03-10T22:22:35.595</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
-      <Modified>2018-03-10T22:03:50.165</Modified>
+      <Modified>2018-03-10T22:22:35.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.SpatialTracking.dll">
       <PackagePath>UnityEngine.SpatialTracking.dll</PackagePath>
-      <Modified>2018-03-10T22:03:50.183</Modified>
+      <Modified>2018-03-10T22:22:35.706</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
-      <Modified>2018-03-10T22:03:50.198</Modified>
+      <Modified>2018-03-10T22:22:35.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.StandardEvents.dll">
       <PackagePath>UnityEngine.StandardEvents.dll</PackagePath>
-      <Modified>2018-03-10T22:03:50.213</Modified>
+      <Modified>2018-03-10T22:22:35.762</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
-      <Modified>2018-03-10T22:03:50.271</Modified>
+      <Modified>2018-03-10T22:22:35.867</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\GLTFSerializationUWP.dll">
       <PackagePath>GLTFSerializationUWP.dll</PackagePath>
-      <Modified>2018-03-10T22:03:50.293</Modified>
+      <Modified>2018-03-10T22:22:35.904</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
-      <Modified>2018-03-10T22:03:48.460</Modified>
+      <Modified>2018-03-10T22:22:33.571</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\bin\x86\Release\Core\Two-hands manipulation.exe">
       <PackagePath>Two-hands manipulation.exe</PackagePath>
-      <Modified>2018-03-10T22:03:56.825</Modified>
+      <Modified>2018-03-10T22:22:43.123</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

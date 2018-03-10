@@ -451,9 +451,6 @@
     <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\Two-hands manipulation\Data\sharedassets0.resource">
-      <PackagePath>Data\sharedassets0.resource</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>

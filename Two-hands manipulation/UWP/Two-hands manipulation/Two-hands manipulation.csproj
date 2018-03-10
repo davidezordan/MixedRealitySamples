@@ -358,7 +358,7 @@
 
   <ItemGroup>
     <ProjectReference Include="C:\Source\MixedRealitySamples\Two-hands manipulation\UWP\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{32192649-d24a-4edb-8dd0-e8effa423a19}</Project>
+      <Project>{052ec067-cc37-45dd-86e3-974fbff67c53}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>
