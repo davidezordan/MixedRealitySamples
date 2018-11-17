@@ -1,6 +1,6 @@
 Metro
 PlayerPath?
-C:/Source/MixedRealitySamples/Two-hands manipulation/UWP
+C:/Source/VR/MixedRealitySamples/Two-hands manipulation/Builds/UWP
 SceneListBegin?
 Assets/Scenes/TwoHandsManipulation.unity
 SceneListEnd?

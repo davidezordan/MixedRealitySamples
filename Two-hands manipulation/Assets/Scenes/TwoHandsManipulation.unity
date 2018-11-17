@@ -168,6 +168,10 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.x
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: 160298, guid: 865a8ded6c47efd4285f04f3aebe99e9, type: 2}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 865a8ded6c47efd4285f04f3aebe99e9, type: 2}
   m_IsPrefabParent: 0
@@ -247,15 +251,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9e672aeed2642d34a963295d555cf0e2, type: 3}
       propertyPath: m_LocalScale.x
-      value: 59.999985
+      value: 70
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9e672aeed2642d34a963295d555cf0e2, type: 3}
       propertyPath: m_LocalScale.y
-      value: 60
+      value: 70
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9e672aeed2642d34a963295d555cf0e2, type: 3}
       propertyPath: m_LocalScale.z
-      value: 59.999985
+      value: 70
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9e672aeed2642d34a963295d555cf0e2, type: 3}
@@ -298,8 +302,7 @@ MonoBehaviour:
   rotationType: 0
   handMotionToRotate: 0
   boundingBoxPrefab: {fileID: 203021558}
-  appBarPrefab: {fileID: 114050950401502068, guid: aa610ada334bff640a535f0d23a9a15c,
-    type: 2}
+  appBarPrefab: {fileID: 0}
 --- !u!114 &557743371
 MonoBehaviour:
   m_ObjectHideFlags: 0

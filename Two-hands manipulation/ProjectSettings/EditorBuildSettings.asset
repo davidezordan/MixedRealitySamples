@@ -5,12 +5,6 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/MixedRealityToolkit-Examples/Input/Scenes/TwoHandManipulationTest.unity
-    guid: 6dc6d4fc9c26d4d4cae79e275ab2bb0c
-  - enabled: 0
-    path: Assets/MixedRealityToolkit-Examples/UX/Scenes/BoundingBoxGizmoExample.unity
-    guid: d909917bdc6293945b2923ca5d139560
   - enabled: 1
     path: Assets/Scenes/TwoHandsManipulation.unity
     guid: 93393f8a26962f84e8b8d4d6401ac4f2
