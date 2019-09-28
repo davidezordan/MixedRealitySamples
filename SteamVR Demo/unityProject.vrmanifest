@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.01steamvrdemo.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Source\\blackdungeonvr\\01 - SteamVR Demo\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "01 - SteamVR Demo [Testing]"
+        }
+      }
+    }
+  ]
+}

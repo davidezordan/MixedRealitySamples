@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Test Scene VR.unity
-  isLoaded: 1
-  isActive: 1

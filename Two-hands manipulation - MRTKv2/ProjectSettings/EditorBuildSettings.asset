@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/TwoHandsManipulation.unity
-    guid: 93393f8a26962f84e8b8d4d6401ac4f2
+    path: Assets/MixedRealityToolkit.Examples/Demos/EyeTracking/Scenes/mrtk_eyes_00_RootScene.unity
+    guid: 27c3fbe0128089f48994cdc6af8668fc
   m_configObjects: {}
