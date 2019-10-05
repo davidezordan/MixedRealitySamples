@@ -1,6 +1,6 @@
 # Mixed Reality Samples
 
-My playground for HoloLens, Unity and Windows Mixed Reality.<br />
+My mixed reality playground using Unity, the Mixed Reality Toolkit (MRTK) and OpenVR.<br />
 
 ![](https://davide.dev/wp-content/uploads/2018/03/TwoHandsManipulations-04Device.jpg?raw=true)
 
