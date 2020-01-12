@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Oculus locomotion interaction.unity
+    path: Assets/_Scenes/Oculus locomotion interaction.unity
     guid: 16df762d7f9bf9941925bbfc82e0a164
   m_configObjects: {}
