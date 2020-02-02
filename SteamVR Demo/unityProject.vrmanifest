@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.01steamvrdemo.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "E:\\Source\\Unity projects\\MixedRealitySamples\\SteamVR Demo\\actions.json",
+      "action_manifest_path": "E:\\Source\\Unity projects\\MixedRealitySamples\\SteamVR Demo\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "01 - SteamVR Demo [Testing]"
