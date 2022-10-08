@@ -17,9 +17,7 @@ As usual, the <a href="https://github.com/Microsoft/MixedRealityToolkit-Unity" t
 
 I decided to give this a try using a model imported from the Remix 3D repository.
 <h1>Importing the model from Remix 3D</h1>
-I fired up <strong>Paint 3D</strong> and selected <strong>More models</strong> to explore the ones available online in <strong><a href="https://www.remix3d.com/" target="_blank" rel="noopener">Remix 3D</a></strong>: this is a great container of assets you can use in Mixed Reality apps. I chose to explore a model of the Mars Rover, so I selected and opened it:
-
-<img class="aligncenter size-large wp-image-8274" src="https://davide.dev/uploads/2018/03/TwoHandsManipulations-01MarsRover-1024x549.png" alt="" width="660" height="354" />
+I fired up <strong>Paint 3D</strong> and selected <strong>More models</strong> to explore the ones available online in <strong><a href="https://www.remix3d.com/" target="_blank" rel="noopener">Remix 3D</a></strong>: this is a great container of assets you can use in Mixed Reality apps. I chose to explore a model of the Mars Rover, so I selected and opened it.
 
 Then I exported it as a <strong>3D FBX object</strong> to be able to import in Unity and saved it on my local machine as <strong>MarsRover.fbx</strong>.
 <h1>Creating the Unity project</h1>
